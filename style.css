@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+
+
+.card {
+    text-align: center;
+    padding: 30px;
+    -webkit-box-shadow: 10px 10px 30px 13px rgba(0, 0, 0, 0.86);
+    -moz-box-shadow: 10px 10px 30px 13px rgba(0, 0, 0, 0.86);
+    box-shadow: 10px 10px 30px 13px rgba(0, 0, 0, 0.86);
+    
+
+}
+
+.img {
+    border-radius: 50%;
+    
+}
+
+.h2 {
+    color: orange;
+
+}
+
+a {
+    margin-top: 15px;
+
+
+}
